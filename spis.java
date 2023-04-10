@@ -1,0 +1,41 @@
+public class spis extends tablica34
+{
+    void spis()
+    {
+        super.dzialanie();
+        super.tablica1();
+        super.tablica2();
+        super.tablica3();
+        super.tablica4();
+        super.tablica5();
+        super.tablica6();
+        super.tablica7();
+        super.tablica8();
+        super.tablica9();
+        super.tablica10();
+        super.tablica11();
+        super.tablica12();
+        super.tablica13();
+        super.tablica14();
+        super.tablica15();
+        super.tablica16();
+        super.tablica17();
+        super.tablica18();
+        super.tablica19();
+        super.tablica20();
+        super.tablica21();
+        super.tablica22();
+        super.tablica23();
+        super.tablica24();
+        super.tablica25();
+        super.tablica26();
+        super.tablica27();
+        super.tablica28();
+        super.tablica29();
+        super.tablica30();
+        super.tablica31();
+        super.tablica32();
+        super.tablica33();
+        super.tablica34();
+    }
+}
